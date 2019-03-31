@@ -1,0 +1,15 @@
+{
+  "name": "docker-up",
+  "version": "1.0.1",
+  "description": "Deploy a docker container on heroku in one line",
+  "main": "index.js",
+  "bin": {
+    "docker-up": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
