@@ -1,6 +1,6 @@
 {
   "name": "docker-up",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Deploy a docker container on heroku in one line",
   "main": "index.js",
   "bin": {
